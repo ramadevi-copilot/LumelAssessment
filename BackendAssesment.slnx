@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Backend.Assessment.Models/Backend.Assessment.Models.csproj" Id="44770203-773f-41fe-b14f-c5b5d88f4a19" />
+  <Project Path="Backend.Assessment/Backend.Assessment.csproj" Id="31d50cdf-0ef3-4e28-9ff6-2cdf2155f2f7" />
+  <Project Path="Project1/WebAPI.Section2.csproj" Id="044ba6b0-93c3-42e1-ae93-00c944318853" />
+</Solution>
